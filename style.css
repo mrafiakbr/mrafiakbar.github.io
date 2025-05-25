@@ -1,0 +1,13 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.6;
+    background-color: #f8f9fa;
+}
+h2 {
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+footer {
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+}
